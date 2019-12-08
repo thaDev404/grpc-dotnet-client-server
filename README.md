@@ -1,6 +1,6 @@
 # grpc-dotnet-client-server
 
-## Basic end to end implementation of grpc in nodejs
+## Basic end to end implementation of grpc in dotnet
 
 
 ## Clone the repository
@@ -15,7 +15,8 @@ Build the solution in Visual Studio
 ## Usage
 
 Set startup project on the solution as multiple projects.
-Set The GrpcServer as the first startup project and set GrpcClient as the second startup project
+Set The GrpcServer as the first startup project and set GrpcClient as the second startup project.
+Run the solution, to invoke the server and client simultaeneously in that order.
 
 ## License
 
